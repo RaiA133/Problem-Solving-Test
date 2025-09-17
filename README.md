@@ -3,7 +3,7 @@ How to Check: `node -v` & `php -v`
 
 ##
 
-CATATAN : terdapat 2 bahasa yang saya gunakan yaitu JS dan PHP, semua output di keluarkan pada terminal, terdapat juga output hasil berbentuk file gambar dari setiap file code. untuk merubah input bisa melakukan perubahan value setiap input langsung di dalam file code.
+CATATAN : terdapat 2 bahasa yang saya gunakan yaitu JS dan PHP, semua output di keluarkan pada terminal, terdapat juga output hasil berbentuk file gambar dari setiap file code. untuk merubah input bisa melakukan perubahan value setiap input langsung di dalam file code. setiap file kode memiliki 3 input berbeda.
 
 ## 1. A000124 of Sloane’s OEIS.
 #### run JS code :
